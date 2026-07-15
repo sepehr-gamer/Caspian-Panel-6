@@ -1280,9 +1280,9 @@ a{color:inherit;text-decoration:none}
         <div class="srv-tile-icon"><i class="ti ti-brand-telegram"></i></div>
         <div class="srv-tile-text"><div class="srv-tile-label">آیدی تلگرام</div><div class="srv-tile-val">@PV_Golestaneh</div></div>
       </a>
-      <a class="srv-tile" href="https://github.com/x4gKing" target="_blank" style="text-decoration:none;cursor:pointer">
+      <a class="srv-tile" href="https://github.com/sepehr-gamer/Caspian-Panel-6" target="_blank" style="text-decoration:none;cursor:pointer">
         <div class="srv-tile-icon"><i class="ti ti-brand-github"></i></div>
-        <div class="srv-tile-text"><div class="srv-tile-label">گیت‌هاب</div><div class="srv-tile-val">github.com/x4gKing</div></div>
+        <div class="srv-tile-text"><div class="srv-tile-label">گیت‌هاب</div><div class="srv-tile-val">https://github.com/sepehr-gamer/Caspian-Panel-6</div></div>
       </a>
     </div>
   </div>
